@@ -1,0 +1,14 @@
+name: bot_almoco
+description: Bot do Almoço.
+version: 1.0.0
+# repository: https://github.com/my_org/my_repo
+
+environment:
+  sdk: ^3.1.5
+
+# Add regular dependencies here.
+dependencies:
+  teledart: ^0.6.1
+
+dev_dependencies:
+  lints: ^2.0.0
